@@ -7,8 +7,5 @@
 - Spring Boot 2
 - Postman
 - MySQL 5.6
-- Angular 11
-- bootstrap 4
-- Materil UI
 - Scrum
 
